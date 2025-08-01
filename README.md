@@ -1,2 +1,2 @@
-# Advance SCientific Calculator
-Advanced Calculator using file stored history
+# Advance Scientific Calculator
+Advance Scientific Calculator using file stored history
